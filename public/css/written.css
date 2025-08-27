@@ -594,7 +594,7 @@ animation: flicker 3s infinite;
   transform: scale(1.15);
   cursor: pointer;
 }
-.corebox-container > .corebox:nth-child(7) {
+.corebox-container > .corebox:nth-child(13) {
   grid-column: 1 / -1; 
 }
 
@@ -676,7 +676,7 @@ animation: flicker 3s infinite;
   cursor: pointer;
 }
 
-.corebox-container > .corebox:nth-child(7) {
+.corebox-container > .corebox:nth-child(13) {
   grid-column: 1 / -1;
 }
 
